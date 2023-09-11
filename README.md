@@ -1,0 +1,2 @@
+# pocketbase
+My PocketBase Deployment 🚀
