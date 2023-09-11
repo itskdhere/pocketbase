@@ -2,7 +2,7 @@
 
 My Dockerized PocketBase (v0.18.3) Deployment 🚀
 
-## How To Use ?
+## Usage:
 
 - Build The Image:
 
